@@ -1,0 +1,2 @@
+# AI-POWERED-CYBER-THREAT-INTELLIGENCE-CORRELATION-AND-EARLY-THREAT-DETECTION
+An AI-powered cybersecurity platform that correlates threat intelligence from NVD, CVE, CISA KEV, and MITRE ATT&amp;CK to identify potential risks and prioritize vulnerabilities. It uses risk scoring and AI-generated explanations to help security teams understand threats and take proactive defensive actions through an interactive dashboard.
